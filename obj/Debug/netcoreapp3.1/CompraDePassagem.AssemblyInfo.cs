@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompraDePassagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4270108d493784cab5b0f354d5eb196d76008f57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c268d5824616bcfc0927b40a40ef7950bb0e795f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompraDePassagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompraDePassagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
