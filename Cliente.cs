@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CompraDePassagem
 {
-    internal class PassagemPremium
+    internal class Cliente
     {
     }
 }

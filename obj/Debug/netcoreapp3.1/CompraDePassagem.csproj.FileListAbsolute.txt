@@ -1,0 +1,14 @@
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.sourcelink.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\bin\Debug\netcoreapp3.1\CompraDePassagem.exe
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\bin\Debug\netcoreapp3.1\CompraDePassagem.deps.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\bin\Debug\netcoreapp3.1\CompraDePassagem.runtimeconfig.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\bin\Debug\netcoreapp3.1\CompraDePassagem.runtimeconfig.dev.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\bin\Debug\netcoreapp3.1\CompraDePassagem.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\bin\Debug\netcoreapp3.1\CompraDePassagem.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\CompraDePassagem\CompraDePassagem\obj\Debug\netcoreapp3.1\CompraDePassagem.genruntimeconfig.cache

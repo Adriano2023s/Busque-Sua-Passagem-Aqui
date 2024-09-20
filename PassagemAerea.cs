@@ -5,21 +5,24 @@
         public string Origem { get; set; }
         public string Destino { get; set; }
         public string DataViagem { get; set; }
-        public double Preco { get; set; }
+        public double PrecoBase { get; set; }
+
+        public PassagemAerea()
+        {
+
+        }
 
         public PassagemAerea(string origem, string destino, string dataviagem, double preco)
         {
             Origem = origem;
             Destino = destino;
             DataViagem = dataviagem;
-            Preco = preco;
+            PrecoBase = preco;
         }
 
-        public double CalcularPreco()
+        public virtual double CalcularPreco()
         {
-            double horaDeVou = CalcularDistancia(Origem, destino);
-            double precoDaHora = 0.5;
-            return horaDeVou * precoDaHora;
-            }
+            return PrecoBase;
+        }
     }
 }
