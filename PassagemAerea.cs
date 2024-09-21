@@ -7,11 +7,6 @@
         public string DataViagem { get; set; }
         public double PrecoBase { get; set; }
 
-        public PassagemAerea()
-        {
-
-        }
-
         public PassagemAerea(string origem, string destino, string dataviagem, double preco)
         {
             Origem = origem;

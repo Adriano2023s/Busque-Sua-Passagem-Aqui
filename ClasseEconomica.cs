@@ -5,7 +5,7 @@
         public bool ClienteFrequente { get; set; }
 
         public ClasseEconomica(string origem, string destino, string dataviagem, double preco, bool clientefrequente)
-            : base(origem, destino, dataviagem, preco, clientefrequente)
+            : base(origem, destino, dataviagem, preco)
         {
             ClienteFrequente = clientefrequente;
         }
